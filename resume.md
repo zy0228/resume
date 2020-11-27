@@ -23,8 +23,8 @@ GitHub：https://github.com/zy0228
     -   **等待不无聊**小程序。
     -   **LOYO**小程序。
     -   等待不无聊管理系统。
-
-- 2019.6 - 2020.5：上海畅学前端工程师
+    -   T3出行webapp（个人仿http://zyqjj.top/t3）
+- 2019.6 - 2020.4：上海畅学前端工程师
     -   少儿编程学习平台。（https://www.istemedu.com）
     -   青少年等级考试主站。（http://paat.creacu.org.cn/）
     -   考试系统搭建。
