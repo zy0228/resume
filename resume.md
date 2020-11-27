@@ -11,8 +11,8 @@ GitHub：https://github.com/zy0228
 
 ## 个人概括
 - 对页面布局，HTML 语义化有深刻地理解；熟练掌握 CSS 页面模块化开发。
-- 熟练掌握原生js，并了解ES6。
-- 熟悉前端框架Vue.js, 并了解其他框架如React、svelte, 了解前端常用的构建工具如 Webpack，了解Typescript。
+- 熟练掌握原生Js，并了解ES6。
+- 熟悉前端框架Vue.js, 并了解其他框架如React、Svelte, 了解前端常用的构建工具如 Webpack，了解Typescript。
 - 了解原生小程序开发，uniapp开发(uniapp插件社区发布1k+下载量)。
 
 ## 教育背景
